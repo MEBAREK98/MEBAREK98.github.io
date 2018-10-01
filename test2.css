@@ -1,0 +1,11 @@
+p
+{
+	color: red;
+	border: solid;
+	opacity: 1;
+}
+body
+{
+
+	background: url("image1.jpg") fixed no-repeat, url("image2.jpg");
+}
